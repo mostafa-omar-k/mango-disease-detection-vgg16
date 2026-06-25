@@ -103,7 +103,6 @@ Disease Prediction
 ### Confusion Matrix
 
 ![Data Set](screenshots/metrics_1.jpg)
-![Data Set](screenshots/metrics_2.jpg)
 
 
 ---
